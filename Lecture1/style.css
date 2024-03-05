@@ -1,0 +1,16 @@
+/* .container{
+    background-color: red;
+} */
+h1{
+    text-align: center;
+}
+
+
+/* chnaging the styling of pre styled buttons present in bootsrtap */
+.btn-success{
+    background-color: blueviolet;
+}
+
+.btn-success:hover{
+    background-color:yellowgreen;
+}
